@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imgRecyclerRowItem"
+        android:layout_width="60dp"
+        android:layout_height="70dp"
+        android:src="@mipmap/ic_launcher_round"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:id="@+id/txtRecyclerRowItem"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:text="@string/list_item"
+        android:padding="10dp"
+        android:textSize="14sp"
+        android:textColor="@color/black_col"
+        android:textStyle="bold"
+        android:layout_toRightOf="@id/imgRecyclerRowItem"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/txtAuthorName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name_of_the_author"
+        android:textSize="15sp"
+        android:layout_toRightOf="@id/imgRecyclerRowItem"
+        android:layout_below="@id/txtRecyclerRowItem"
+        android:padding="10dp"/>
+
+    <TextView
+        android:id="@+id/txtPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rs. 299"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/green"
+        android:layout_toRightOf="@id/imgRecyclerRowItem"
+        android:layout_below="@id/txtAuthorName"
+        android:padding="10dp"/>
+
+    <ImageView
+        android:id="@+id/imgFavourite"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginEnd="10dp"
+        android:layout_toRightOf="@id/txtRecyclerRowItem"
+        android:paddingLeft="35dp"
+        android:paddingTop="20dp"
+        android:src="@drawable/favorite" />
+
+    <TextView
+        android:id="@+id/txtRating"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="-6dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_toRightOf="@id/imgFavourite"
+        android:paddingTop="20dp"
+        android:text="4.5"
+        android:textColor="@color/yellow"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
