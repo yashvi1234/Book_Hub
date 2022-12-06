@@ -27,7 +27,5 @@ This app aims to provide a place for all book users to get books easier to read.
 
 ## User Interface of the Book Hub Application
 
-![User Interface 1](/drawable-hdpi/user_interface_1.jpeg "User Interface 1")
-
-![User Interface 2](/drawable-hdpi/user_interface_2.jpeg "User Interface 2")
+![User Interface 1](/drawable-hdpi/user_interface_1.jpeg "User Interface 1")                   ![User Interface 2](/drawable-hdpi/user_interface_2.jpeg "User Interface 2")
 
