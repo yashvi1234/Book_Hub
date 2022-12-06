@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.yashvi.bookhub.app-mergeDebugResources-27:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\eshas\\.gradle\\caches\\transforms-3\\d3b5a00c8c8d32cf7dccb8ee585ed284\\transformed\\appcompat-1.5.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

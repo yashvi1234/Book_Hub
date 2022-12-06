@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-anydpi_ic_about_app.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-anydpi\\ic_about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-hdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-hdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xxhdpi_ic_.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xxhdpi\\ic_.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xxxhdpi_ic__round.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xxxhdpi\\ic__round.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-mdpi_ic_favourites.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-mdpi\\ic_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-xhdpi_ic_favourites.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-xhdpi\\ic_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable_favorite.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable\\favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-mdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-mdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-xxhdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-xxhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xhdpi_ic__round.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xhdpi\\ic__round.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\menu_menu_drawer.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-anydpi_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-anydpi\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-xhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-xhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-hdpi_ic__round.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-hdpi\\ic__round.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-xxhdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-xxhdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\layout_fragment_favourites.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\layout\\fragment_favourites.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\layout_fragment_blank.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-mdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-mdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-anydpi-v24_ic_channel_foreground.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-pngs-24:\\drawable-anydpi-v24\\ic_channel_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-anydpi-v24_ic__foreground.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-pngs-24:\\drawable-anydpi-v24\\ic__foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable_book_sec.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable\\book_sec.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable_ic_channel_background.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable\\ic_channel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-anydpi-v26_ic_.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-anydpi-v26\\ic_.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-hdpi_ic_favourites.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-hdpi\\ic_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable_ic__background.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable\\ic__background.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable_book_cover_image.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable\\book_cover_image.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-anydpi-v26_ic__round.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-anydpi-v26\\ic__round.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-hdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-hdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-anydpi_ic_favourites.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-anydpi\\ic_favourites.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xxxhdpi_ic_.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xxxhdpi\\ic_.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-mdpi_ic__round.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-mdpi\\ic__round.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-xhdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-xhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-xxhdpi_ic_favourites.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-xxhdpi\\ic_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xhdpi_ic_channel.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xhdpi\\ic_channel.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-anydpi-v26_ic_channel.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-anydpi-v26\\ic_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\layout_recycler_dashboard_single_row.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\layout\\recycler_dashboard_single_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-anydpi_ic_profile.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-anydpi\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xxhdpi_ic__round.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xxhdpi\\ic__round.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xhdpi_ic_.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xhdpi\\ic_.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-hdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-hdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "com.yashvi.bookhub.app-merged_res-29:/layout_recycler_dashboard_single_row.xml.flat",
+        "source": "com.yashvi.bookhub.app-main-31:/layout/recycler_dashboard_single_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-hdpi_ic_.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-hdpi\\ic_.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-mdpi_ic_.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-mdpi\\ic_.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-mdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-mdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-xxhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-xxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\layout_fragment_about_app.xml.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\layout\\fragment_about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\drawable-xhdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\drawable-xhdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\eshas\\.gradle\\daemon\\7.3.3\\com.yashvi.bookhub.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]
